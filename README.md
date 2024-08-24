@@ -14,7 +14,7 @@ La mejor visualizacion de los territorios es en Github, aqui podra dar clic sobr
 ##### Atlas Costa 2014 v1.3: http://www.kyriosoft.com/atlas/Paginas/PaginaPrincipal.html
 ---
 
-![Mapa](https://github.com/abcgeomatica/Ter itorios-Indigenas-Costa-Rica/blob/master/Territorios%20Indigenas.jpg)
+![Mapa](https://github.com/abcgeomatica/Territorios-Indigenas-Costa-Rica/blob/master/Territorios%20Indigenas.jpg)
 
 Mapa en GEE code (Requiere registro):
 https://code.earthengine.google.com/ccc44036cdabe9187ca757fe6b322f81
