@@ -28,6 +28,5 @@ Mapa en Github
 https://abcgeomatica.github.io/Territorios-Indigenas-Costa-Rica/
 
 Mapa en Qgiscloud
-https://abcgeomatica.github.io/Territorios-Indigenas-Costa-Rica/
-
+https://qgiscloud.com/sigeomatica/Territorios_indigenas/
 
