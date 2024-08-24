@@ -20,10 +20,5 @@ Mapas en GEE App
 https://ee-abcgeomaticaagricola.projects.earthengine.app/view/territorios-indigenas-costa-rica
 
 Mapas en Github
-https://abcgeomatica.github.io/Mapas-Eolicos-Guanacaste/
+https://abcgeomatica.github.io/Territorios-Indigenas-Costa-Rica/
 
-Mapas en Qgiscloud
-https://qgiscloud.com/sigeomatica/Potencial_Eolico/
-
-Mapas WMS para agregar este vinculo a SIG
-https://qgiscloud.com/sigeomatica/Potencial_Eolico/wms?SERVICE=WMS&REQUEST=GetCapabilities
