@@ -12,6 +12,7 @@ La mejor visualizacion de los territorios es en Github, aqui podra dar clic sobr
 ##### Fuente: https://www.wikiwand.com/es/articles/Pueblos_ind%C3%ADgenas_de_Costa_Rica
 ---
 ##### Atlas Costa 2014 v1.3: http://www.kyriosoft.com/atlas/Paginas/PaginaPrincipal.html
+---
 
 ![Mapa](https://github.com/abcgeomatica/Ter itorios-Indigenas-Costa-Rica/blob/master/Territorios%20Indigenas.jpg)
 
