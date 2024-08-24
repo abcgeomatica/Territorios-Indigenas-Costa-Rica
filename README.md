@@ -2,23 +2,25 @@
 ---
 La poblacion indigena de Costa Rica se compone de 8 pueblos con aproximadamente 100 000 individuos y 7% del area del pais
 ---
-Estos mapas dan una orientacion donde se puede instalar turbinas eolicas para generacion electrica, asi como zonas de bajo viento para sembrar ciertos cultivos suceptibles.
+La mejor visualizacion de los territorios es en Github, aqui podra dar clic sobre los territorios y se despliega informacion detallada de cada territorio
 ---
  Abajo se adjuntan los vinculos para ver los mapas interactivamente en varias plataformas.
- El orden de velocidad de descarga por plataforma es el siguiente:  GEE --> Github --> Qgiscloud
+ El orden de velocidad de descarga por plataforma es el siguiente:  GEE --> Github 
 --- 
 
 ---
-##### Fuente:  “[Data/information/map] obtained from the Global Wind Atlas version 3.3, a free, web-based application developed, owned and operated by the Technical University of Denmark (DTU). The Global Wind Atlas version 3.3 is released in partnership with the World Bank Group, utilizing data provided by Vortex, using funding provided by the Energy Sector Management Assistance Program (ESMAP). For additional information: [https://globalwindatlas.info](https://globalwindatlas.info/es)”
+##### Fuente: https://www.wikiwand.com/es/articles/Pueblos_ind%C3%ADgenas_de_Costa_Rica
 ---
-![Mapa](https://github.com/abcgeomatica/Territorios-Indigenas-Costa-Rica/blob/master/Territorios%20Indigenas.jpg)
+##### Atlas Costa 2014 v1.3: http://www.kyriosoft.com/atlas/Paginas/PaginaPrincipal.html
 
-Mapas en GEE code (Requiere registro):
+![Mapa](https://github.com/abcgeomatica/Ter itorios-Indigenas-Costa-Rica/blob/master/Territorios%20Indigenas.jpg)
+
+Mapa en GEE code (Requiere registro):
 https://code.earthengine.google.com/ccc44036cdabe9187ca757fe6b322f81
 
-Mapas en GEE App
+Mapa en GEE App
 https://ee-abcgeomaticaagricola.projects.earthengine.app/view/territorios-indigenas-costa-rica
 
-Mapas en Github
+Mapa en Github
 https://abcgeomatica.github.io/Territorios-Indigenas-Costa-Rica/
 
