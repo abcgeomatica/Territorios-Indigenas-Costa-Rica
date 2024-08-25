@@ -1,6 +1,6 @@
 ## TERRITORIOS INDIGENAS DE COSTA RICA 2024
 ---
-La poblacion indigena de Costa Rica se compone de 9 pueblos con aproximadamente 104 000 individuos y 7% del area del pais (3300 Km2) en 24 territorios; principalmente al sur del pais.
+La poblacion indigena de Costa Rica se compone de 8 pueblos con aproximadamente 104 000 individuos y 7% del area del pais (3300 Km2) en 24 territorios; principalmente al sur del pais.
 ---
 El asunto indigena es un problema por resolver del pais, existen las leyes pero falta la voluntad politica.
 ---
