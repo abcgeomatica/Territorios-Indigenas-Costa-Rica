@@ -4,7 +4,7 @@ La poblacion indigena de Costa Rica se compone de 8 pueblos con aproximadamente 
 ---
 El asunto indigena es un problema por resolver del pais, pendiente actualizar reconocimiento constitucional de su existencia, derecho autodeterminacion, autogobierno de cada pueblo indigena y la devolucion completa de sus tierras de parte de particulares. Ademas de su proteccion.
 ---
-La mejor visualizacion de los territorios es en Github, aqui podra dar clic sobre los territorios y se despliega informacion detallada de cada territorio
+La mejor visualizacion de los territorios es en Qgiscloud, aqui podra dar clic sobre los territorios y se despliega informacion detallada de cada territorio
 ---
  Abajo se adjuntan los vinculos para ver los mapas interactivamente en varias plataformas.
  El orden de velocidad de descarga por plataforma es el siguiente:  GEE --> Github --> Qgiscloud
